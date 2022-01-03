@@ -1,2 +1,4 @@
 # rsschool-cv
-my public repository
+my CV 
+https://helenhancharonak.github.io/rsschool-cv/cv
+ 
